@@ -1,0 +1,159 @@
+.container {
+    background-color: #ce0505;
+    height: 50px;
+    
+}
+
+
+.logo
+{
+    
+        display: inline-block;
+    margin-top: 5px;
+    width: 35px;
+    height: 40px;
+    background-color: #ffffff;
+    border-radius: 50%;
+    font-size: 30px;
+    color: #eb2929;
+    margin-left: 1%;
+    text-align: center;
+}
+
+.login{
+
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: left;
+    color: white;
+
+}
+
+.account{
+    
+    display: inline-block;
+    margin-top: 10px ;
+    color: #ffffff;
+    border: solid 1px #ffffff;
+    padding: 2px ;
+    margin-right: 20px;
+}
+
+.heading{
+
+    font-size: 36px;
+    font-weight: bold;
+    color: #192f60;
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.filter-block{
+    margin-top: 20px;
+    margin-left: 50px;
+     width: 260px;
+    height: 682px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+
+}
+
+h3{
+    margin-left: 25px;
+    margin-bottom: 25px ;
+font: normal normal 600 18px/27px Poppins;
+color: #192F60;
+
+}
+
+label{
+    margin-left: 25px;
+font: normal normal normal 14px/21px Poppins;
+color: #192F60;
+
+}
+form , .cost , .Sort
+{
+    margin-left: 20px;
+    
+}
+
+select{
+    margin-left: 25px;
+    left: 140px;
+    height: 35px;
+    width: 160px;
+    margin-bottom: 15px;
+
+}
+ 
+span{
+    margin-left: 25px;
+    color: #8C96AB;
+    
+}
+
+
+
+.item {
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 25%);
+    background-color: #ffffff;
+    border: 1px solid black;
+    height: 225px;
+    width: 120% ;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    margin-block: 25px;
+    padding: 20px;
+
+}
+.image1{
+
+    width: 120px;
+    height: 120px;
+    border-radius: 17px;
+}
+
+.t1{
+    height: 43px;
+    font: normal normal 600 30px/46px Poppins;
+    color: #192F60;
+    margin-left: 20px;
+}
+
+
+.t2{
+
+     height: 23px;
+     font: normal normal medium 16px/30px Poppins;
+     color: #192F60;
+     margin-left: 20px;
+
+}
+
+.t3{
+height: 23px;
+font: normal normal normal 16px/30px Poppins;
+color: #636F88;
+margin-left: 20px;
+}
+
+th{
+    color: #636F88;
+    font: normal normal normal 16px/30px Poppins; 
+    margin-right: 20px;
+}
+
+table {
+
+width: 251px;
+height: 69px;
+font: normal normal normal 16px/30px Poppins;
+color: #192F60;
+}
+
+.button{
+    margin-left: 250px;
+}
